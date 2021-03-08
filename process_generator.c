@@ -1,5 +1,5 @@
 /*
- * CSE 330 Spring 19'
+ * CSE 330 Spring 21'
  * User space program for project 2-1 
  * This program creates 8 processes with different scheduling policies
  * There are 1 default policy (TS), 1 FIFO policy (FF), 2 Round Robin policy (RR) 
