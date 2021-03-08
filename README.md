@@ -18,9 +18,10 @@ Finally, we fork() again. You now have eight processes. And we change the newly 
 
 So you get 1 default policy (TS), 1 FIFO (FF), 2 Round Robin (RR), and 4 Batch (B).
 
+To run the program: sudo ./process_generator
 
 
-# Expected output
+# Expected PS output
 26972 process_generat  19 TS\
 26973 process_generat 138 FF\
 26974 process_generat 137 RR\
