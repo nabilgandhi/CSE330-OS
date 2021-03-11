@@ -1,4 +1,4 @@
-- cd gen_process
+- cd user_process_generator
 - make
 - ./user_process_generator
 - sudo ./priority_sched_update.sh
