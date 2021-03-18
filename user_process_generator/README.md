@@ -1,4 +1,5 @@
 - cd user_process_generator
 - make
 - ./user_process_generator
-- sudo ./priority_sched_update.sh
+- Run this from another Terminal: `sudo ./priority_sched_update.sh`
+- Finally, run your module to see the new processes.
